@@ -4,7 +4,7 @@ Portal para apoyo en la búsqueda de empleo
 
 
 
-# Colabora con "EmpleoSI" ([english](/CONTRIBUTE.md))
+# Colabora con "EmpleoSI"
 
 1. [Cómo colaborar](#cómo-colaborar)
 2. [Discusión](#discusión)
